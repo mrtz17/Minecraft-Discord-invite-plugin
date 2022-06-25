@@ -1,1 +1,1 @@
-## Minecraft-Discord-invite-plugin
+## easy discord invite (bukkit plugin)
